@@ -1,3 +1,5 @@
 template-file-path: s3.yml
-parameters: {}
-tags: {}
+parameters:
+  ParamValue: testConnect2-param1
+tags:
+  test1: value1
